@@ -56,7 +56,7 @@ We used the DetectoRS(ResNeXt-101-32x4d) model for detecting impacts. Our detect
 After processing this video, the computer vision model we deployed onto this application will output a video that should apply a box over every player’s helmet. These boxes will flash red once the model determines that there has been a helmet impact.![image](https://user-images.githubusercontent.com/74167574/216740956-a62d5684-a2b1-4c40-a663-ed0ba9bdd359.png)
 <img width="470" alt="image" src="https://user-images.githubusercontent.com/74167574/216740931-837018e9-e9c0-4d8a-8df3-67bb178f57a8.png">
 
-Once the model has generated the output video, a player tracking table is also created. This summarizes the players that have sustained a helmet impact and also provide some tracking data for the approximate moment the player is struck on the helmet. ![image](https://user-images.githubusercontent.com/74167574/216740966-6a22a020-f8cb-4220-9b67-19395a7e0f4a.png)
+Once the model has generated the output video, a player tracking table is also created. This summarizes the players that have sustained a helmet impact and also provide some tracking data for the approximate moment the player is struck on the helmet. 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/74167574/216740970-f2d43fcb-bf34-49c7-98c1-75e6b315baa1.png">
 
 
