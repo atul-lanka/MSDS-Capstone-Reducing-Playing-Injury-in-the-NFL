@@ -1,6 +1,7 @@
 # MSDS-Capstone-Reducing-Playing-Injury-in-the-NFL
 This project highlights 3 primary factors in the NFL for increased player injury - playing surface, punt return plays and multiple helmet to helmet collisions - and offers subsequent solutions to tackle each one
 
+This project was inspired by the annual NFL Big Data Bowl hosted on Kaggle
 
 # Overview 
 Injuries from the 2019 season have been attributed to over $500 Million dollars in expenses incurred by NFL teams according to Forbes. The quantity of injuries combined with the revenue ramifications present a unique opportunity to more heavily scrutinize the data surrounding player injuries and implement substantial changes in order to keep players healthy and in the game. Our project’s focus will be just that; analysis of injury data from past years through various regression analyses and Computer Vision to gain concrete recommendations and actionable insights that will lead to the reduction of player injuries and, in turn, minimize the injury-related expenses incurred by teams.
@@ -12,6 +13,7 @@ There are 3 key areas of focus that we narrowed this report down to. Given that 
 3.	Multiple helmet impacts that are generally sustained near the line of scrimmage – where the linebackers stand right as the play commences. 
 
 For each of these sections, we will not only provide detailed analysis but also include solutions and recommendations. In addition, we will address rule changes, provide a dashboard as well as an app, and future investment or partnership opportunities to curb these injuries in the long term.
+
 
 
 ## Surface Analysis
