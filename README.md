@@ -1,4 +1,7 @@
 # MSDS-Capstone-Reducing-Playing-Injury-in-the-NFL
+
+Presentation: https://drive.google.com/file/d/11wgVNltfN3gIMIfBEsaKgr7Wq4ZfmKvG/view?usp=share_link
+
 This project highlights 3 primary factors in the NFL for increased player injury - playing surface, punt return plays and multiple helmet to helmet collisions - and offers subsequent solutions to tackle each one
 
 This project was inspired by the annual NFL Big Data Bowl hosted on Kaggle
